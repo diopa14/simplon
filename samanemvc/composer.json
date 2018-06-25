@@ -1,0 +1,16 @@
+{
+    "name": "auf/aufmvc",
+    "description": "AufMVC is a PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aufframework",
+            "email": "abdallahdiop11@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+       "require": {
+           "smarty/smarty": "~3.1"
+    }
+}
